@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "807d48cc663301e4977d7cbed1fdba26"
+build_time: [537292709, 781844000]
+inputs:
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/AFError.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/Alamofire.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/MultipartFormData.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/Notifications.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/ParameterEncoding.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/Request.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/Response.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/ResponseSerialization.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/Result.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/ServerTrustPolicy.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/SessionDelegate.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/SessionManager.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/TaskDelegate.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/Timeline.swift": [536935631, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/Alamofire/Source/Validation.swift": [536935631, 0]

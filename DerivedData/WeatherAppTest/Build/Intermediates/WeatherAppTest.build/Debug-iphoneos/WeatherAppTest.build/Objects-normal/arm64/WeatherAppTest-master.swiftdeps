@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2accd8f5e7d239bfe2d859459ad7aafe"
+build_time: [537292715, 658081000]
+inputs:
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/WeatherAppTest/Weather.swift": !dirty [535534292, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/WeatherAppTest/ViewController.swift": !dirty [537292704, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/WeatherAppTest/WeatherAPI.swift": !dirty [537292704, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/WeatherAppTest/AppDelegate.swift": !dirty [535534292, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/DerivedData/WeatherAppTest/Build/Intermediates/WeatherAppTest.build/Debug-iphoneos/WeatherAppTest.build/DerivedSources/CoreDataGenerated/WeatherAppTest/Weathers+CoreDataClass.swift": !dirty [537292715, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/DerivedData/WeatherAppTest/Build/Intermediates/WeatherAppTest.build/Debug-iphoneos/WeatherAppTest.build/DerivedSources/CoreDataGenerated/WeatherAppTest/Weathers+CoreDataProperties.swift": !dirty [537292715, 0]
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/DerivedData/WeatherAppTest/Build/Intermediates/WeatherAppTest.build/Debug-iphoneos/WeatherAppTest.build/DerivedSources/CoreDataGenerated/WeatherAppTest/WeatherAppTest+CoreDataModel.swift": !dirty [537292715, 0]

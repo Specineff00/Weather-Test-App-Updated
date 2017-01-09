@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "5beb59e68777174b980bbb578345db5c"
+build_time: [537292708, 73964000]
+inputs:
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [536935633, 0]

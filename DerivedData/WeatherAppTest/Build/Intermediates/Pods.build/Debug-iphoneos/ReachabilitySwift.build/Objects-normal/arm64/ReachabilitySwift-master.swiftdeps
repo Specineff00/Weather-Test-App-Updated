@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "7b2e1bf18b96893986200988ffe338d5"
+build_time: [537292704, 510133000]
+inputs:
+  "/Users/yogeshnramsorrrun/Downloads/Weather-Test-App--master/Pods/ReachabilitySwift/Reachability/Reachability.swift": [536935568, 0]
